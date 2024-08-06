@@ -9,7 +9,7 @@ VectorLite is a TypeScript library for storing and searching vectors using SQLit
 - Vector similarity search
 - Basic clustering algorithms
 
-## Installation
+## Installation (NOT IMPLEMENTED YET)
 
 ```bash
 npm install vectorlite
